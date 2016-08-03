@@ -1,0 +1,23 @@
+{
+  "name": "lsd-countup",
+  "homepage": "https://github.com/marius-barticel-adswizz/lsd-countup",
+  "authors": [
+    "Marius Barticel <marius.barticel@adswizz.com>"
+  ],
+  "description": "Light & Simple Directive : LSD-CountUp",
+  "main": "src/lsd.countUp.directive.js",
+  "keywords": [
+    "Angular",
+    "Directive",
+    "Count",
+    "Up"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
