@@ -1,4 +1,6 @@
-angular.module('lsd-countup',[])
+'use strict';
+
+angular.module('lsd',[])
   .directive('countUp', ['$timeout',
     function($timeout) {
       return {
