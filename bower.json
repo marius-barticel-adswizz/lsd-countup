@@ -5,13 +5,7 @@
     "Marius Barticel <marius.barticel@adswizz.com>"
   ],
   "description": "Light & Simple Directive : LSD-CountUp",
-  "main": "src/lsd.countUp.directive.js",
-  "keywords": [
-    "Angular",
-    "Directive",
-    "Count",
-    "Up"
-  ],
+  "main": "dist/lsd.countUp.directive.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
