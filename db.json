@@ -1,24 +1,14 @@
 {
-  "agenda": [
-    {
-      "nume": "Un prieten",
-      "telefon" : 092343224234
-    },
-    {
-      "nume": "O ruda",
-      "telefon" : 09342232211
-    },
-    {
-      "nume": "Necunoscut",
-      "telefon" : 0723211102
-    },
-    {
-      "nume": "Nimeni",
-      "telefon" : 07523112232
-    },
-    {
-      "nume": "Nu raspunde",
-      "telefon" : 0712312123
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
